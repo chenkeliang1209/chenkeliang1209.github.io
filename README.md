@@ -13,7 +13,7 @@
 ---
 
 ## 📚 Education & Research
-- **2023 – Present**  
+- **2024 – Present**  
   B.S. in Physics, Central China Normal University (CCNU)  
   Visiting Student at School of Astronomy and Space Science (Purple Mountain Observatory, CAS), University of Science and Technology of China  
   Working on SIDM halo structure and density profile modeling
