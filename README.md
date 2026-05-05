@@ -1,7 +1,7 @@
 # chenkeliang1209.github.io
-# 陈克亮 | Keliang Chen
-### 华中师范大学 · 物理学基地班（理论物理方向）
-📍 南京/武汉 | 📧 keliang.chen@example.com | 🔗 [GitHub](https://github.com/chenkeliang1209)
+# 陈柯良 | Keliang Chen
+### Central China Normal University · Physics (National Top-notch Student Training Base Program)
+📍 Nanjing/Wuhan | 📧 chenkeliang@mails.ccnu.edu.cn| 🔗 [GitHub](https://github.com/chenkeliang1209)
 
 ---
 
@@ -15,7 +15,7 @@
 ## 📚 Education & Research
 - **2023 – Present**  
   B.S. in Physics, Central China Normal University (CCNU)  
-  Visiting Student at the Purple Mountain Observatory (NAOC)  
+  Visiting Student at School of Astronomy and Space Science (Purple Mountain Observatory, CAS), University of Science and Technology of China  
   Working on SIDM halo structure and density profile modeling
 
 ---
