@@ -21,12 +21,13 @@
 ---
 
 ## 🛠️ Technical Skills
-| Category         | Tools & Languages |
-|------------------|-------------------|
-| Simulation Codes | Gadget-2, AGAMA  |
-| Programming      | Python (NumPy, Matplotlib, Astropy), C/C++, Shell |
-| Data Analysis    | Statistical modeling, clustering, PCA, hypothesis testing |
-| Visualization    | Publication-quality plots, 3D rendering, phase-space diagrams |
+
+| Category          | Tools & Languages                                                                 |
+|-------------------|-----------------------------------------------------------------------------------|
+| Simulation Codes  | Gadget-2, AGAMA                                                                   |
+| Programming       | Python (NumPy, Matplotlib, Astropy), C/C++, Shell                                 |
+| Data Analysis     | Statistical modeling, clustering, PCA, hypothesis testing                         |
+| Visualization     | Publication-quality plots, 3D rendering, phase-space diagrams                     |
 
 ---
 
