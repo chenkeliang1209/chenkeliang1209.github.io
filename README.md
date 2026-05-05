@@ -1,1 +1,46 @@
 # chenkeliang1209.github.io
+# 陈克亮 | Keliang Chen
+### 华中师范大学 · 物理学基地班（理论物理方向）
+📍 南京/武汉 | 📧 keliang.chen@example.com | 🔗 [GitHub](https://github.com/chenkeliang1209)
+
+---
+
+## 🔭 Research Interests
+- **Dark Matter Physics**: Self-Interacting Dark Matter (SIDM) halo evolution, dwarf galaxy dynamics
+- **Numerical Simulations**: N-body simulations with Gadget-2, orbit analysis in triaxial halos using AGAMA
+- **Data Science for Astrophysics**: Statistical analysis, machine learning applications to large simulation datasets
+
+---
+
+## 📚 Education & Research
+- **2023 – Present**  
+  B.S. in Physics, Central China Normal University (CCNU)  
+  Visiting Student at the Purple Mountain Observatory (NAOC)  
+  Working on SIDM halo structure and density profile modeling
+
+---
+
+## 🛠️ Technical Skills
+| Category         | Tools & Languages |
+|------------------|-------------------|
+| Simulation Codes | Gadget-2, AGAMA  |
+| Programming      | Python (NumPy, Matplotlib, Astropy), C/C++, Shell |
+| Data Analysis    | Statistical modeling, clustering, PCA, hypothesis testing |
+| Visualization    | Publication-quality plots, 3D rendering, phase-space diagrams |
+
+---
+
+## 📝 Selected Projects
+### 1. SIDM Halo Evolution Simulations
+- Performed N-body simulations of self-interacting dark matter halos using Gadget-2
+- Analyzed density profiles, velocity dispersions, and core formation compared to collisionless CDM
+- Skills: Gadget-2, Python, parallel computing, data reduction
+
+### 2. Orbit Analysis in Triaxial Dark Matter Halos
+- Used AGAMA to model triaxial potentials and classify stellar orbits (box/chaotic)
+- Studied orbit stability and resonant interactions
+- Skills: AGAMA, Python, orbit integration, statistical analysis
+
+---
+
+Last updated: 2026-05-05
