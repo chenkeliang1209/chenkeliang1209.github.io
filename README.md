@@ -1,7 +1,7 @@
 # chenkeliang1209.github.io
 # 陈柯良 | Keliang Chen
 ### Central China Normal University · Physics (National Top-notch Student Training Base Program)
-📍 Nanjing/Wuhan | 📧 chenkeliang@mails.ccnu.edu.cn| 🔗 [GitHub](https://github.com/chenkeliang1209)
+📍 Nanjing/Wuhan | 📧 chenkeliang1209@mails.ccnu.edu.cn| 🔗 [GitHub](https://github.com/chenkeliang1209)
 
 ---
 
